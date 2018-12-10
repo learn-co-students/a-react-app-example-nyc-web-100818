@@ -11,6 +11,9 @@
     ]
   },
   "dependencies": {
+    "browser": "^0.2.6",
+    "learn": "^0.1.5",
+    "learn-browser": "^0.1.17",
     "mocha-multi": "^1.0.1",
     "moment": "^2.22.2",
     "react": "^16.4.1",
